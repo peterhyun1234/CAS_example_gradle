@@ -1,0 +1,33 @@
+<SSO>
+
+<CAS>
+0. jdk, maven 설치 및 환경변수설정
+1. https://authentication.tistory.com/27
+2. plugin문제 해결:
+ http://jin-study.blogspot.com/2014/03/maven-maven-plug-in.html
+3. 
+
+다른 방법!
+1. gradle 설치 및 변수설정
+2. https://github.com/apereo/cas-gradle-overlay-template/tree/master
+3. wrapper 에러 해결: https://stackoverflow.com/questions/53709282/cannot-add-task-wrapper-as-a-task-with-that-name-already-exists
+4. 실행 어떻게 할지
+	4.1. WAR: ./build.sh run
+	4.2. Spring Boot: ./build.sh bootrun
+
+개념*
+* Spiring Boot 는 기본적으로 jar 배포형태(자바 실행 프로그램이라 생각 가능)
+* War 웹프로젝트, tomcat같은 웹서버 위에서 돌아가는 프로젝트
+
+일단 윈도우 환경에서는 실패 ㅠ.ㅠ
+
+<ORY Hydra>
+
+1. scoop으로 hydra 설치
+2. https://github.com/ory/hydra/releases (윈도우 버젼 받기)
+3. 
+
+
+1. 스티키메모 정리
+4. 깃 이전에 했던 것들 정리
+5. CWG 정리 선영통화, 선영간증

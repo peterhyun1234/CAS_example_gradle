@@ -1,0 +1,15 @@
+1. ./build not found error (권한 부여: https://stackoverflow.com/questions/10852660/bash-sh-command-not-found)
+2. Could not find or load main class org.gradle.wrapper.GradleWrapperMain error 해결: https://androidhuman.tistory.com/537
+3. 
+
+
+<docker 사용 예제>
+
+1. docker pull apereo/cas (image 다운로드)
+2. docker images (확인)
+3. docker run
+4. docker ps -a
+
+https://apereo.github.io/cas/5.0.x/installation/Docker-Installation.html
+
+이제 어떻게 해야할지.. ㅋㅋ
